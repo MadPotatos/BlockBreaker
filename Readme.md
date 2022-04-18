@@ -4,6 +4,8 @@ The game contains 5 levels
 
 To play , simply click on the .exe file in BlockBreaker folder
 
+Use mouse to move the paddle , left-click to shoot the ball
+
 Music 
 
 Cassetter - Neon Towers
